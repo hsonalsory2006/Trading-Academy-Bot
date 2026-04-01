@@ -1,0 +1,2 @@
+# Trading-Academy-Bot
+بوتي
